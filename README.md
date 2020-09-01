@@ -4,6 +4,4 @@
 
 ## You can see the video below.
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/Rj5GVoOWZgM" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/Rj5GVoOWZgM)
