@@ -5,4 +5,4 @@
 ## You can see the video below.
 Click this gif!
 
-[![Just click](https://share.gifyoutube.com/yoNYw6.gif)](https://youtu.be/Rj5GVoOWZgM)
+[![Link of the video](https://img.youtube.com/vi/Rj5GVoOWZgM/0.jpg)](http://www.youtube.com/watch?v=Rj5GVoOWZgM)
