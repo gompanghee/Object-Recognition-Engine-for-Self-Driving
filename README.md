@@ -3,5 +3,5 @@
 
 
 ## You can see the video below.
-
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/Rj5GVoOWZgM)
+Click this gif!
+[![Demo CountPages alpha](https://gifs.com/gif/tester-yoNYw6)](https://youtu.be/Rj5GVoOWZgM)
