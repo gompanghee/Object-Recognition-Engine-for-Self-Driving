@@ -1,5 +1,13 @@
 # Object-Recognition-Engine-for-Self-Driving (Work in progress)
 
+This is a deep learning-based computer vision processing library designed to make it easy to start research on autonomous driving in Korea and make high-level technology available.
+
+The deep learning model uses an SSD structure with a MobileNetV2 neural network, and if you have Python3 and Tensorflow2.3 environments, you can use them right away without installing a separate package.
+
+The library recognizes key information of driving in real-time camera (such as traffic lights, vehicles, people, crosswalks, road signs and traffic signs) and returns them into programmable data.
+
+The library is now completed to recognize and locate key information. And will be completed soon to analyze the key informations recognized and return the speed, signals, and status of the vehicles.
+
 
 
 ## Downloads
