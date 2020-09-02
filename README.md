@@ -3,7 +3,7 @@
 
 
 ## Downloads
-X Datasets [Download](https://drive.google.com/file/d/1u4g7wRqargX0ce_lqnOMjPZ8EmhrLrQo/view?usp=sharing)
+X Datasets(Images) [Download](https://drive.google.com/file/d/1u4g7wRqargX0ce_lqnOMjPZ8EmhrLrQo/view?usp=sharing)
 
 ## You can see the video below.
 
