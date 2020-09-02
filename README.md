@@ -1,4 +1,4 @@
-# Object-Recognition-Engine-for-Self-Driving (Work in progress)
+# Object Recognition Engine for Self-Driving (Work in progress)
 
 This is a deep learning-based computer vision processing library designed to make it easy to start research on autonomous driving in Korea and make high-level technology available.
 
