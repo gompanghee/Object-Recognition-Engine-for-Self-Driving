@@ -8,6 +8,8 @@ The library recognizes key information of driving in real-time camera (such as t
 
 The library is now completed to recognize and locate key information. And will be completed soon to analyze the key informations recognized and return the speed, signals, and status of the vehicles.
 
+The dataset used for learning was collected while driving in Daejeon.
+
 
 
 ## Downloads
